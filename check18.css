@@ -1,0 +1,14 @@
+caption {
+    font-size: 40px;
+    text-transform: capitalize;
+}
+
+table,
+th,
+tr,
+td {
+    border: 1px ;
+    border-color: black;
+    border-style: solid;
+    border-collapse: collapse;
+}
