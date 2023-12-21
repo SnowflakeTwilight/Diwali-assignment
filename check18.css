@@ -12,3 +12,6 @@ td {
     border-style: solid;
     border-collapse: collapse;
 }
+table{
+    width: 100vw;
+}
