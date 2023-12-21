@@ -5,3 +5,7 @@ table,td,tr,th{
     text-align: center;
     text-transform: uppercase;
 }
+table{
+    width: 100vw;
+}
+
